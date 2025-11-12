@@ -10,9 +10,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif">
 
 
-- 🔭 I’m currently working on [Sarwam – One App For Everything ]
-
-- 🌱 I’m currently learning **Advanced Flutter frameworks, design systems, and e-commerce integration with platforms like ONDC.**
+- 🌱 I have experiance in **Advanced Flutter frameworks, design systems, and e-commerce integration with platforms like ONDC.**
 
 - 👯 I’m looking to collaborate on **UI/UX-intensive projects, mobile app development in Flutter, and innovative solutions in e-commerce or digital ecosystems.**
 
