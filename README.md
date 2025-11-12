@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif">
 
 
-- 🔭 I’m currently working on [Sarwam – One App For Everything ](https://sarwam.framer.website/)
+- 🔭 I’m currently working on [Sarwam – One App For Everything ]
 
 - 🌱 I’m currently learning **Advanced Flutter frameworks, design systems, and e-commerce integration with platforms like ONDC.**
 
@@ -18,13 +18,9 @@
 
 - 🤝 I’m looking for help with **Advanced UI/UX design techniques and creating intuitive design systems to enhance user experience and ensure seamless interaction across mobile applications.**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://pratikpandey.framer.website/)
-
 - 💬 Ask me about **UI/UX design principles, app development with Flutter, or building intuitive products for startups.**
 
 - 📫 How to reach me **pratik.gdpandey@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1oeQ9g1DZkUWwiiDRpyPGdZ66v1HcJNdR/view?usp=sharing)
 
 - ⚡ Fun fact **I believe every design tells a story—and I love making mine memorable!**
 
